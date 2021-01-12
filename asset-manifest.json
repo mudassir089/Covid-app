@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mudassir089/Covid-app/static/css/main.96b41713.chunk.css",
-    "main.js": "/mudassir089/Covid-app/static/js/main.77322001.chunk.js",
-    "main.js.map": "/mudassir089/Covid-app/static/js/main.77322001.chunk.js.map",
-    "runtime-main.js": "/mudassir089/Covid-app/static/js/runtime-main.f28bbe5f.js",
-    "runtime-main.js.map": "/mudassir089/Covid-app/static/js/runtime-main.f28bbe5f.js.map",
-    "static/js/2.184f7077.chunk.js": "/mudassir089/Covid-app/static/js/2.184f7077.chunk.js",
-    "static/js/2.184f7077.chunk.js.map": "/mudassir089/Covid-app/static/js/2.184f7077.chunk.js.map",
-    "index.html": "/mudassir089/Covid-app/index.html",
-    "static/css/main.96b41713.chunk.css.map": "/mudassir089/Covid-app/static/css/main.96b41713.chunk.css.map",
-    "static/js/2.184f7077.chunk.js.LICENSE.txt": "/mudassir089/Covid-app/static/js/2.184f7077.chunk.js.LICENSE.txt"
+    "main.css": "/Covid-app/static/css/main.96b41713.chunk.css",
+    "main.js": "/Covid-app/static/js/main.77322001.chunk.js",
+    "main.js.map": "/Covid-app/static/js/main.77322001.chunk.js.map",
+    "runtime-main.js": "/Covid-app/static/js/runtime-main.f2ead70a.js",
+    "runtime-main.js.map": "/Covid-app/static/js/runtime-main.f2ead70a.js.map",
+    "static/js/2.184f7077.chunk.js": "/Covid-app/static/js/2.184f7077.chunk.js",
+    "static/js/2.184f7077.chunk.js.map": "/Covid-app/static/js/2.184f7077.chunk.js.map",
+    "index.html": "/Covid-app/index.html",
+    "static/css/main.96b41713.chunk.css.map": "/Covid-app/static/css/main.96b41713.chunk.css.map",
+    "static/js/2.184f7077.chunk.js.LICENSE.txt": "/Covid-app/static/js/2.184f7077.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f28bbe5f.js",
+    "static/js/runtime-main.f2ead70a.js",
     "static/js/2.184f7077.chunk.js",
     "static/css/main.96b41713.chunk.css",
     "static/js/main.77322001.chunk.js"
