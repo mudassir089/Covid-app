@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/mudassir089/Covid-app/Covid-app/static/css/main.2df7a863.chunk.css",
+    "main.css": "/mudassir089/Covid-app/Covid-app/static/css/main.494ba3c4.chunk.css",
     "main.js": "/mudassir089/Covid-app/Covid-app/static/js/main.d8cf762d.chunk.js",
     "main.js.map": "/mudassir089/Covid-app/Covid-app/static/js/main.d8cf762d.chunk.js.map",
     "runtime-main.js": "/mudassir089/Covid-app/Covid-app/static/js/runtime-main.854d3684.js",
@@ -8,13 +8,13 @@
     "static/js/2.53f43935.chunk.js": "/mudassir089/Covid-app/Covid-app/static/js/2.53f43935.chunk.js",
     "static/js/2.53f43935.chunk.js.map": "/mudassir089/Covid-app/Covid-app/static/js/2.53f43935.chunk.js.map",
     "index.html": "/mudassir089/Covid-app/Covid-app/index.html",
-    "static/css/main.2df7a863.chunk.css.map": "/mudassir089/Covid-app/Covid-app/static/css/main.2df7a863.chunk.css.map",
+    "static/css/main.494ba3c4.chunk.css.map": "/mudassir089/Covid-app/Covid-app/static/css/main.494ba3c4.chunk.css.map",
     "static/js/2.53f43935.chunk.js.LICENSE.txt": "/mudassir089/Covid-app/Covid-app/static/js/2.53f43935.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.854d3684.js",
     "static/js/2.53f43935.chunk.js",
-    "static/css/main.2df7a863.chunk.css",
+    "static/css/main.494ba3c4.chunk.css",
     "static/js/main.d8cf762d.chunk.js"
   ]
 }
